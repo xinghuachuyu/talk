@@ -1,0 +1,8 @@
+POST https://study.duyiedu.com/api/user/login  HTTP/1.1
+content-type: application/json
+
+  //空一行代表请求头和请求体的分隔
+ {
+    "loginId": "Kenneth Lewis",
+    "loginPwd": "IEzyL"
+}
